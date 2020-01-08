@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: aliceblue;
+    font-family: sans-serif;
+
+}
+h1 {
+    font-size: 40px;
+    color: green;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+}
